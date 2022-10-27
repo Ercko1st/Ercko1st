@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EricMonnet
+- 👋 Hi, I’m @Eric Monnet
 - 👀 I’m interested in Python, Big Data, Cloud Computing, Artificial Intelligence, Machine Learning and Computer Vision
 - 🌱 I’m currently learning Computer Technology Application
 - 💞️ I’m looking to collaborate on real world project on related domain
